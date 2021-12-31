@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @normanboettcher
-- 👀 I’m interested in Machine Learning, Data Science, Web- Development, Real- Life Projects
-- 🌱 I’m currently learning Machine Learning and Data Science topics (University and self studying), Web- Development
+- 👀 I’m interested in Machine Learning, Data Science and Big Data technologies
+- 🌱 I’m currently learning Machine Learning and Data Science topics (University and self studying), Big Data technologies
 - 📫 How to reach me: Instagram @normanbttcher | LinkedIn/Xing: @Norman Böttcher
 
 <!---
